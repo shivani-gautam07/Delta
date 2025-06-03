@@ -1,3 +1,4 @@
-# Delta
+# SIMONSAYS GAME
 
-## Please use this repo to download your in-class starter codes.
+Enhance your memory by playing this fun and challenging game of recalling the sequence of flashes.
+
